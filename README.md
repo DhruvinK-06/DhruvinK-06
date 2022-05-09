@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruvin</h1>
 <h3 align="center">I am a Computer Science student and I am keen on developing my career in Machine Learning, Artificial Intelligence and Data Science. I am currently looking for internship opportunities in the relevant domains</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvink-06&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvink-06" /> </p>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Artificial Intelligence, Deep Learning**
 
